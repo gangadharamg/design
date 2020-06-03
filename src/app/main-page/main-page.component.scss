@@ -1,0 +1,43 @@
+// * {
+//     margin: 0;
+//     padding: 0;
+//     box-sizing: border-box;
+   
+// }
+
+// body {
+//     background-color: #E5E1EE;
+//     transition: 0.3s all;
+// }
+
+section {
+    height: 100vh;
+}
+
+h1 {
+    margin: 15rem;
+}
+.lightblue{
+    background-color:#0e38b1 ;
+}
+::ng-deep{
+  
+     .lightCyan {
+    background-color: #DFFDFF ;
+}
+
+.darkSkyBlue {
+    background-color: #90BEDE;
+}
+
+.aquamarine {
+    background-color: #68EDC6;
+}
+
+.electricBlue {
+    background-color: #90F3FF;
+}
+}
+.first{
+    padding-top: 10%;
+}
